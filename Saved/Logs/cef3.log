@@ -1,0 +1,15 @@
+[74848:61780:0402/120107.178:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[74848:8600:0402/120107.258:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[74848:61780:0402/120107.273:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[74848:61780:0402/120114.756:ERROR:device_event_log_impl.cc(196)] [12:01:14.209] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[47376:73936:0402/120116.109:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9F35BCD34F49FEEFC9A252AAC9EC0E48 will be ignored
+[74848:9584:0402/120117.784:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[74848:61780:0402/120118.114:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[74848:61780:0402/120118.114:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[74848:61780:0402/120118.114:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[74848:61780:0402/120118.115:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[74848:9584:0402/120118.137:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[50752:50972:0402/120332.452:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[50752:50972:0402/120332.453:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[74848:61780:0403/081104.416:ERROR:device_event_log_impl.cc(196)] [08:11:04.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[74848:61780:0403/165440.321:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
